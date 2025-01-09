@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "plated-hangout-434503-t5",
+  "private_key_id": "bd6d700389df4db00b9fb64ffb3f5d2c08a42e55",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2e88aoydeNopI\nJ4ZiZkleuvFyli0aP3fqsfAQRdaiKqTntHJDEFdQIUD27+2oqPwcJ4QriOoIu9CO\nuSk4YsfF7frPtTdE/VSDy49zhjuSPlvv72htjScTL7LQHL9ltt8/ItlsH+rxEJIg\nf8TsaxPK3wexovS++1s7XAw4uo4M46lgn3/5bQL0iCHY95nlROSajk6G7XJ9xD5N\nBt6METRxn23Ro0aDfZ7ZTe+fJoe92RJj9B+5HFcdJWi69q40EtI8hQsmMUYDgWn5\nko8t8c3p6GKZS+Z1uFmmx5Lkkth3kfbuJYA4Up6vaa7gH3hW0lMXlWM/3Cph+M0A\nt+fC69dDAgMBAAECggEACw3g89oiTmC7a7eJOni7xRNKAQj73nUtzHfO9Q1l/Rjc\nOHUD3vAkeeQpzUund+oUq5fxN7npg3HtJlgtGQ9Szril0uNFX9aAwiMYo4TkIu3I\nH/a+urQsQ8tF57l2FrFHQMnZpeUhFE1OrM1Qnom1/zoXezlF3jPXyPbAfsc+R6WA\ncFgOK+vT0xLhDk2a0gujR9pP9n9umXzL2Sbm1mDnnLv8aMVakSyeIgFvuSXQ4wJx\n2NKwvTziPuzqZ+bL+Tuv+IeWlh3iNLd0UJMr9N1x0sgPPa3MH947QHy2DodGiGJC\nrqiD1AZkJ/2Q/v8yM3WvNosqIlIG1XYEINCSnkyl8QKBgQD4+ZtcagejHvwM5TTT\n4N+c2AjSRCLTl8t4CCK+txVkRhEVNzojYYuezikpt/bHfYkVzGp+/9aqK8ZG4SmW\npjt2TqYfjcB8ejWsVK6KaBSyvmdcX06tTfOMPoNnkBHfvzNEijefaBft7Ur8Xes0\nJoZZaiMIPMxEehNBruMk1Tg2dQKBgQC7oeweJSCFsUMT+SKGEmxqvimsLzo8Ttxx\nzIQsY2FPnPG0xBUX4N6SH4xZ63jfiXrgpzypoIjmmoBy6yJY8EPfNC+19tB1zEB0\nQoWUkauq0ytCeJmsWDzMdUtbOdnC9nshPjGN+0pIqDcjMI41UKzJTNNslbAAP4oi\nB18uC0hP1wKBgBlwJ1eB3dXkzIvkv0kGqNI1oHEbVROZZsiUzDgALMdaAVTRl7cV\nuFY5aitBCI3JXcBEan0fVqd8YX3Mc5tY0Kp9zqtaqFgPhHxfCpZJnBPHMHhXpIpA\ndKnXmUVzit/5gRt3o8c9s3Qz0n2GewmRBhkMpxeoXpaAgocrfzm8L0ohAoGBAJoP\nmuMpkumTIcOdlVZGfFSs7WSepo9sJR8fUQttUjJfaCsHsVYY4kdSthgC+w14QbeC\nOZIB6UaHZ550KJCkPuZfYClljcabPfT3xdy2OyEZIHUEtxFGpi0uxgASoRWu8mza\nNzAgO98ql5NCRBHMuwLSHOsUgR3DDjVgnisdQnOjAoGAZ3w16Yxtys2KdVDF3nJv\nO5b2L5+eIlvRmOuoNAJG20zc0mD0xLa0QnA+CSn3FlElrKb2878as4Ewe9P/DjOj\nTcOxeYG4L3tRFIsa690JuwTrgk2PuWIMZYM5C4bV4HuJztjqkor2RU+5rpysw25F\nVbRVcrwaM3Cywv+FM5uAda8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@plated-hangout-434503-t5.iam.gserviceaccount.com",
+  "client_id": "106013195026778590138",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40plated-hangout-434503-t5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
